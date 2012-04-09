@@ -7,8 +7,16 @@ Something like [twisted highscores](http://twistedmatrix.com/highscores )
 - 200 points for submitting a story or defect to version one
 - 500 x story-points for merging a pull request
 - 1000 x story-points for a review
+- -500 for a story being re-opened
 
 "story-points" are version one story complexity estimates
+
+## Crib existing systems?
+
+- https://github.com/leereilly/github-high-scores
+- http://develop.github.com/p/pulls.html
+- https://github.com/blog/964-all-of-the-hooks
+- http://developer.github.com/v3/repos/hooks/
 
 ## Architecture
 
