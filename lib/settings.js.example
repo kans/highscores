@@ -1,0 +1,21 @@
+
+
+exports.apis = {
+    "version_one": {
+        "host": "www15.v1host.com",
+        "port": 443,
+        "name": "RACKSPCE",
+        "project": 1038,
+        "auth": ""
+        "poll_interval": 1000 * 60 * 5;
+    },
+    "github": {
+        "url": "https://github.com",
+        "port": 443,
+        "org": "racker",
+        "repo": "reach",
+        "username": "__external__",
+        "apikey": "__external__"
+        "poll_interval": 1000 * 60 * 5;
+    }
+}
