@@ -13,7 +13,7 @@ exports.apis = {
         "url": "https://github.com",
         "port": 443,
         "org": "racker",
-        "repo": "reach",
+        "repos": ["reach"],
         "username": "asdf",
         "apikey": "really_secure",
         "poll_interval": 1000 * 60 * 5
