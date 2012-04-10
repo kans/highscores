@@ -14,8 +14,9 @@ exports.apis = {
         "port": 443,
         "org": "racker",
         "repos": ["reach"],
-        "username": "asdf",
-        "apikey": "really_secure",
+        "username": "user",
+        "password": "password",
+        "apikey": "1234abcd",
         "poll_interval": 1000 * 60 * 5
     }
 };
