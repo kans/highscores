@@ -1,4 +1,7 @@
 
+exports.external_ipv4 = '123.123.123.123';
+
+exports.listen_port = 3000;
 
 exports.apis = {
     "version_one": {
