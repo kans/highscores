@@ -4,7 +4,7 @@ exports.external_ipv4 = '123.123.123.123';
 exports.devopsjson_uris = {
     "": "",
 };
-
+exports.idjson_path = 'idjson';
 // where the crawled devopsjson data will end up
 exports.saved_crawls_path = "fixtures";
 
