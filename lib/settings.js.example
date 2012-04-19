@@ -9,24 +9,3 @@ exports.idjson_path = 'idjson';
 exports.saved_crawls_path = "fixtures";
 
 exports.listen_port = 3000;
-exports.sqlite_path = 'highscores.db';
-exports.apis = {
-    "version_one": {
-        "host": "www15.v1host.com",
-        "port": 443,
-        "name": "hello",
-        "project": 42,
-        "auth": "",
-        "poll_interval": 1000 * 60 * 5
-    },
-    "github": {
-        "url": "https://github.com",
-        "port": 443,
-        "org": "racker",
-        "repos": ["reach"],
-        "username": "user",
-        "password": "password",
-        "apikey": "1234abcd",
-        "poll_interval": 1000 * 60 * 5
-    }
-};
