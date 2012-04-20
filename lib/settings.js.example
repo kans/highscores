@@ -9,3 +9,4 @@ exports.idjson_path = 'idjson';
 exports.saved_crawls_path = "fixtures";
 
 exports.listen_port = 3000;
+exports.DEFAULT_STORY_POINTS = 1;

@@ -1,3 +1,4 @@
 lib/settings.js
 .DS_Store
 idjson
+node_modules
