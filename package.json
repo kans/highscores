@@ -15,7 +15,9 @@
     "jade": "0.20.x",
     "jshint": "0.5.x",
     "underscore": "",
-    "elementtree": ""
+    "elementtree": "",
+    "node-dev": "",
+    "pg": ""
   },
   "engines": {
     "node": ">=0.4.1 <0.7.0"

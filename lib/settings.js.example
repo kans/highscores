@@ -1,6 +1,10 @@
 
 exports.external_ipv4 = '123.123.123.123';
 
+// see https://github.com/brianc/node-postgres for formatting the db connection
+// (you need a postgres db first of course!)
+exports.db = 'pg://username:password@localhost/database';
+
 exports.devopsjson_uris = {
     "": "",
 };
